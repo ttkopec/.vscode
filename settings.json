@@ -1,0 +1,15 @@
+{
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "gitlens.changes.toggleMode": "window",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.ignoreRebaseWarning": true,
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "always",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
